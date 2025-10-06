@@ -1,0 +1,20 @@
+﻿{
+  "name": "tlp.udonrecyclingscrollrect",
+  "displayName": "TLP UdonRecyclingScrollRect",
+  "version": "0.1.0",
+  "description": "Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit. Adapted to UdonSharp for VRChat and converted to VCC package.",
+  "gitDependencies": {},
+  "legacyFolders": {
+    "Assets\\Guribo\\UdonRecyclableScrollRect": "",
+    "Assets\\TLP\\UdonRecyclableScrollRect": ""
+  },
+  "author": {
+    "name": "Guribo",
+    "url": "https://github.com/Guribo"
+  },
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.8.2",
+    "tlp.udonutils": "^11.5.3"
+  },
+  "unity": "2022.3"
+}
